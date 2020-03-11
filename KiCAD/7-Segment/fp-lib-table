@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "7-Segment Lib")(type KiCad)(uri "${KIPRJMOD}/7-Segment Lib.pretty")(options "")(descr ""))
+)

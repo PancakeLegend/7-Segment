@@ -1,0 +1,26 @@
+Info: Checking netlist symbol footprint “D4:/5E5389C4:LEDs:LED_WS2812B-PLCC4”.
+Info: Checking netlist symbol footprint “J8:/5E62813C:7-Segment Lib:Header3Pin_03”.
+Info: Checking netlist symbol footprint “J7:/5E62815F:7-Segment Lib:Header3Pin_03”.
+Info: Checking netlist symbol footprint “J6:/5E628116:7-Segment Lib:Header3Pin_03”.
+Info: Checking netlist symbol footprint “J5:/5E62811C:7-Segment Lib:Header3Pin_03”.
+Info: Checking netlist symbol footprint “J4:/5E5E3062:7-Segment Lib:Header3Pin_03”.
+Info: Checking netlist symbol footprint “J3:/5E5E04FF:7-Segment Lib:Header3Pin_03”.
+Info: Checking netlist symbol footprint “J2:/5E5C92BA:7-Segment Lib:Header3Pin_03”.
+Info: Checking netlist symbol footprint “J1:/5E5CA7AE:7-Segment Lib:Header3Pin_03”.
+Info: Checking netlist symbol footprint “D8:/5E62804B:LEDs:LED_WS2812B-PLCC4”.
+Info: Checking netlist symbol footprint “D7:/5E62802C:LEDs:LED_WS2812B-PLCC4”.
+Info: Checking netlist symbol footprint “D6:/5E538A07:LEDs:LED_WS2812B-PLCC4”.
+Info: Checking netlist symbol footprint “D5:/5E5389E5:LEDs:LED_WS2812B-PLCC4”.
+Info: Checking netlist symbol footprint “C0:/5E510EDA:Capacitors_SMD:C_0805”.
+Info: Checking netlist symbol footprint “D3:/5E53179E:LEDs:LED_WS2812B-PLCC4”.
+Info: Checking netlist symbol footprint “D2:/5E52FFA6:LEDs:LED_WS2812B-PLCC4”.
+Info: Checking netlist symbol footprint “D1:/5E52D521:LEDs:LED_WS2812B-PLCC4”.
+Info: Checking netlist symbol footprint “D0:/5E4FBBDA:LEDs:LED_WS2812B-PLCC4”.
+Info: Checking netlist symbol footprint “C8:/5E62805D:Capacitors_SMD:C_0805”.
+Info: Checking netlist symbol footprint “C7:/5E62803E:Capacitors_SMD:C_0805”.
+Info: Checking netlist symbol footprint “C6:/5E538A19:Capacitors_SMD:C_0805”.
+Info: Checking netlist symbol footprint “C5:/5E5389F7:Capacitors_SMD:C_0805”.
+Info: Checking netlist symbol footprint “C4:/5E5389D6:Capacitors_SMD:C_0805”.
+Info: Checking netlist symbol footprint “C3:/5E5317B0:Capacitors_SMD:C_0805”.
+Info: Checking netlist symbol footprint “C2:/5E52FFB8:Capacitors_SMD:C_0805”.
+Info: Checking netlist symbol footprint “C1:/5E52D533:Capacitors_SMD:C_0805”.
