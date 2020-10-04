@@ -1,11 +1,4 @@
-234118075012769
-7-Segment Lib
-Header3Pin_03
-
-
-0
-3
-3
+253080246713870
 Battery_Holders
 Bulgin_BX0036_1xC
 
@@ -1219,6 +1212,34 @@ MagneticBuzzer_StarMicronics_HMB-06_HMB-12
 0
 Buzzers_Beepers
 PUIAudio_SMT_0825_S_4_R
+
+
+0
+0
+0
+CCHS
+CCHS_Logo_NoText
+
+
+0
+0
+0
+CCHS
+CCHS_Logo_Small
+
+
+0
+0
+0
+CCHS
+CCHS_Logo_Small_NoText
+
+
+0
+0
+0
+CCHS
+CCHS_Logo_WithName
 
 
 0
@@ -46647,6 +46668,62 @@ zip28
 0
 0
 0
+Stylophone
+Buzzer_12x9.5RM6.5
+Generic Buzzer, D12mm height 9.5mm with RM6.5mm
+buzzer
+0
+2
+2
+Stylophone
+CP_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+Stylophone
+CR2032
+CR2032 Battery Holder
+CR2032 Battery Holder Clip
+0
+3
+2
+Stylophone
+Keypad_01
+
+
+0
+12
+12
+Stylophone
+Keypad_02
+
+
+0
+12
+12
+Stylophone
+R_L6.3mm_D2.5mm_P7.62mm
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+Stylophone
+Stylus_Header
+Through hole angled pin header, 1x01, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x01 2.54mm single row
+0
+1
+1
+Stylophone
+Switch_SPDT_8.5
+
+
+0
+3
+3
 Symbols
 CE-Logo_8.5x6mm_SilkScreen
 
